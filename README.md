@@ -1,4 +1,4 @@
-# Windows Key Tapper
+# Key Auto Tapper
 
 一个用 Python 和 CustomTkinter 编写的 Windows 桌面工具。每轮模拟 1000 次键盘敲击，可用来触发 Wuwa Tappo 等监听系统输入的桌宠。
 
